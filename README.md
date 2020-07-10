@@ -1,5 +1,7 @@
 # NOKIA SNAKE
 
+https://nokia-snake-game.netlify.app/
+
 ### Javascript Project
 
 Tutorial link:  
